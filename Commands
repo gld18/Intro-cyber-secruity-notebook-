@@ -1,0 +1,23 @@
+pwd- print working directory
+ls
+ls-l
+ls-la
+cd- change directory 
+touch- creating empty files in current directory 
+mkdir- creates empty directories 
+rm- removes files
+man- read imformation 
+grep- searching command
+find- search for passwords and key words in files 
+cat- copy contents of any file
+vim- CLI editor for writing intext files 
+pipe- pass output into anothger command
+$()- this command is to nest a command into another one
+>,<, >>,<<- this command is for puahing output ito another command
+apt- get
+net- tools
+ping
+ifconfig
+netstat
+traceroute
+mtr
