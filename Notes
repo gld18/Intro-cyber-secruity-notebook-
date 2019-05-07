@@ -1,0 +1,25 @@
+name of the vulnelrable- derpstink
+4 flags 
+operating system- ubuntu
+nmap -ss for finding ip address
+ssh,ftp http 22ssh, port 21, port 80 
+http opens up the website
+source code of the homepage- first flag 
+no info 
+dirbuster
+the sit is wordpress 
+guessed admin: admin 
+wpscan 
+the slide show had the notes, CVE-2014-5460
+wbsite for reference- exploit database exploit written in python 
+tool to create reverse- metasploit 
+exploit and payload- P-reverse shell E- problem in the site code that lets him in 
+he finds the login information for the sequel databas,
+what file did he find, wordpress 
+tool to break the code- hashcat 
+tool requires wordlist, rock you 
+dashboard of wordpress- 2nd flag 
+can't use ssh, uses ftp
+useful file- rsa private key 
+stinky desktop- next flag 
+netcat to create server
